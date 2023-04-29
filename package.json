@@ -1,0 +1,30 @@
+{
+  "name": "node_handson_01",
+  "version": "1.0.0",
+  "description": "a node js handson 01 created by Rushikesh Bhosale from EA20 batch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rushikeshbhosale185/node-handson-01.git"
+  },
+  "keywords": [
+    "handson01"
+  ],
+  "author": "Rushikesh Bhosale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rushikeshbhosale185/node-handson-01/issues"
+  },
+  "homepage": "https://github.com/rushikeshbhosale185/node-handson-01#readme",
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  },
+  "dependencies": {
+    "console-log-colors": "^0.4.0"
+  }
+}
